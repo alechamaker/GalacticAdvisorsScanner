@@ -82,7 +82,7 @@ namespace Scanner
 						}
 						_fileScanners.Remove(finishedScanner);
 					}
-					_fileScanners.Add(new FileScanner(file, _patterns, ScannerType.TEXT).StartScan());
+					_fileScanners.Add(new FileScanner(file, _patterns).StartScan());
 				}
 
 				//wait for the final file scanners to finish running
