@@ -1,6 +1,6 @@
 # Scanner
 
-The purpose of this project is to create a code sample for an application process for (GalacticAdvisors)[https://www.galacticadvisors.com/].
+The purpose of this project is to create a code sample for an application process for [GalacticAdvisors](https://www.galacticadvisors.com/).
 <hr/>
 
 ## Timesheet Breakdown
